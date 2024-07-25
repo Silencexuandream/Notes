@@ -1,0 +1,1 @@
+{"objectClass":"NSDictionary","root":{"objectClass":"MindNode","ID":"MY5O4","text":"小说知识图谱"},"ID":"1UB35","style":200,"lineKeepThin":true}
