@@ -1,0 +1,1 @@
+{"objectClass":"NSDictionary","root":{"objectClass":"MindNode","ID":"2O54N","children":{"0":{"objectClass":"MindNode","ID":"55Y61","text":"为天地立心，为生民立命，为往圣继绝学，为万世开太平！（后续补上作者）"},"objectClass":"NSArray"},"text":"古今名句"},"ID":"4YKS4","style":200,"lineKeepThin":true}

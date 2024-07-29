@@ -1,0 +1,1 @@
+{"objectClass":"NSDictionary","root":{"objectClass":"MindNode","ID":"3I5VS","children":{"0":{"objectClass":"MindNode","ID":"F3TE3","text":"眉目如画，肤如凝脂，顾盼生辉"},"1":{"objectClass":"MindNode","ID":"96S6L","text":""},"objectClass":"NSArray"},"text":"形容女性"},"ID":"L51F3","style":200,"lineKeepThin":true}
