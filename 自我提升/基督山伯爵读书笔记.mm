@@ -1,0 +1,1 @@
+{"objectClass":"NSDictionary","root":{"objectClass":"MindNode","ID":"OH9A3","children":{"0":{"objectClass":"MindNode","ID":"0MC00","children":{"0":{"objectClass":"MindNode","ID":"R76RL","text":"大船从"},"objectClass":"NSArray"},"text":"第一章"},"objectClass":"NSArray"},"text":"基督山伯爵读书笔记"},"ID":"0VC7N","style":900,"lineKeepThin":true}
