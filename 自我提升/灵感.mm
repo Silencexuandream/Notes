@@ -1,0 +1,1 @@
+{"objectClass":"NSDictionary","root":{"objectClass":"MindNode","ID":"1T7F9","children":{"0":{"objectClass":"MindNode","ID":"0161G","text":""},"1":{"objectClass":"MindNode","ID":"F3140","text":""},"objectClass":"NSArray"},"text":"灵感"},"ID":"WE7QG","style":500,"lineKeepThin":true}
