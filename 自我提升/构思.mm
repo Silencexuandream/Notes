@@ -1,0 +1,1 @@
+{"objectClass":"NSDictionary","root":{"objectClass":"MindNode","ID":"O8VX8","children":{"0":{"objectClass":"MindNode","ID":"J20RB","text":"凭借音乐天赋和女1的欣赏成为网红，然后被人陷害被封杀，却在最低估的时候知道了自己喜欢的女儿（爱情虽然很甜蜜但是适合更重要）"},"objectClass":"NSArray"},"text":"构思"},"ID":"J4T07","style":200,"lineKeepThin":true}
